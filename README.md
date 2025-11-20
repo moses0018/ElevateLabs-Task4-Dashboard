@@ -20,13 +20,11 @@ Focus on sales, profit, category trends, segment performance, and geographical i
 ##  Files Included
 - **Task4_Final_Dashboard_Presentation.pptx** – Dashboard summary
 - **dashboard_detailed_report.pdf** – Visuals + detailed insights
-- Tableau screenshots (optional)
+- Tableau screenshots 
 
 ## Tools Used
 - Tableau Public (Web)
 - PowerPoint
-- ReportLab (for PDF automation)
-- ChatGPT (for insights structuring)
 
 ## Learnings
 - Building KPI dashboards
